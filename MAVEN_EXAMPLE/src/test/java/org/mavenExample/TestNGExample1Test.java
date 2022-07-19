@@ -10,7 +10,7 @@ public class TestNGExample1Test {
    }
    @Test
    public void practice2Test() {
-	   Reporter.log("TYSS 2--> test1",true);
+	   Reporter.log("TYSS 2--> test11",true);
    }
    @Test
    public void practice3Test() {
