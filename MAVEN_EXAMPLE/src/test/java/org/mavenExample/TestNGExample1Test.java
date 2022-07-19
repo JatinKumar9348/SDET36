@@ -18,5 +18,6 @@ public class TestNGExample1Test {
    @Test
    public void practice3Test() {
 	   Reporter.log("TYSS 3--> test1",true);
+	    Reporter.log("TYSS 3--> test1",true);
    }
 }
