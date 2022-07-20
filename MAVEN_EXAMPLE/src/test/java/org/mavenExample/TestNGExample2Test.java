@@ -6,9 +6,9 @@ import org.testng.annotations.Test;
 public class TestNGExample2Test {
 	@Test
 	   public void practice1Test() {
-		   String url=System.getProperty("url");
-		   String browser=System.getProperty("browser");
-		   System.out.println(url);
+//		   String url=System.getProperty("url");
+//		   String browser=System.getProperty("browser");
+//		   System.out.println(url);
 //		   System.out.println(browser);
 		   Reporter.log("TYSS 1--> test2",true);
 		   
