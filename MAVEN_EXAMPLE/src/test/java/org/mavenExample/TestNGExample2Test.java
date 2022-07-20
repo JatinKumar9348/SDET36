@@ -9,7 +9,7 @@ public class TestNGExample2Test {
 		   String url=System.getProperty("url");
 		   String browser=System.getProperty("browser");
 		   System.out.println(url);
-		   System.out.println(browser);
+		   //System.out.println(browser);
 		   Reporter.log("TYSS 1--> test2",true);
 		   
 	   }
