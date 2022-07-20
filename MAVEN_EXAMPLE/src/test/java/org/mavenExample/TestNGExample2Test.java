@@ -12,6 +12,7 @@ public class TestNGExample2Test {
 //		   System.out.println(browser);
 		   Reporter.log("TYSS 1--> test2",true);
 		   System.out.println(" changed ");
+		   System.out.println("123445asgh");
 		   
 	   }
 	@Test
