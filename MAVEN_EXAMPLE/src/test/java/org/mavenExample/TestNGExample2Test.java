@@ -8,13 +8,10 @@ public class TestNGExample2Test {
 	   public void practice1Test() {
 		   String url=System.getProperty("url");
 		   String browser=System.getProperty("browser");
-<<<<<<< HEAD
 		   System.out.println(url);
 		   //System.out.println(browser);
-=======
 		  // System.out.println(url);
 		   System.out.println(browser);
->>>>>>> branch 'master' of https://github.com/JatinKumar9348/SDET36.git
 		   Reporter.log("TYSS 1--> test2",true);
 		   
 	   }
