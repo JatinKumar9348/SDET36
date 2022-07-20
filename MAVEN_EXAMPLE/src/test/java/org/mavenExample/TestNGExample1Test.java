@@ -7,7 +7,12 @@ public class TestNGExample1Test {
    @Test
    public void practice1Test() {
 	   Reporter.log("TYSS 1--> test1",true);
+
+	    Reporter.log("TYSS 1--> test1",true);
+	    System.out.println("test");
+
 	   // Reporter.log("TYSS 1--> test1",true);
+
 	   
    }
    @Test
