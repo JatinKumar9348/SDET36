@@ -8,7 +8,7 @@ public class TestNGExample1Test {
    public void practice1Test() {
 	   Reporter.log("TYSS 1--> test1",true);
 	    Reporter.log("TYSS 1--> test1",true);
-	    System.out.println("hello    hy   ");
+	    System.out.println("    hy   ");
 	   
    }
    @Test
