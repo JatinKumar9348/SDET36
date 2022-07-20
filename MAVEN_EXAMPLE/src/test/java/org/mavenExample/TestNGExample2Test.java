@@ -11,6 +11,7 @@ public class TestNGExample2Test {
 //		   System.out.println(url);
 //		   System.out.println(browser);
 		   Reporter.log("TYSS 1--> test2",true);
+		   System.out.println("change kali");
 		   
 	   }
 	@Test
